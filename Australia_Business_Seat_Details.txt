@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+Name: asdf asdf
+Gender : MALE
+Passport No.: 15421
+Mobile Number : 44444
+Ticket Category : Business Class
+Seat No : 1
+Ticket Parches time (date and time) : Sat Nov 07 12:10:32 2020
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Name: asdfasdf asdf
+Gender : MALE
+Passport No.: 7896412135
+Mobile Number : 01940539644
+Ticket Category : Business Class
+Seat No : 3
+Ticket Parches time (date and time) : Sat Nov 07 12:46:28 2020
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Name: dsfasdf sdfasdf
+Gender : MALE
+Passport No.: 47845464
+Mobile Number : 017755159
+Ticket Category : Business Class
+Seat No : 10
+Ticket Parches time (date and time) : Sat Nov 07 15:10:32 2020
+-----------------------------------------------------------------

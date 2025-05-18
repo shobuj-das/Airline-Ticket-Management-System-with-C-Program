@@ -1,0 +1,25 @@
+********************************************
+*      All Countries Ticket Price (BDT)    *
+********************************************
+Serial  Countries Name  Business  Economic
+--------------------------------------------
+1         Australia     160000     145000
+2         Austria       100000     85000
+3         Belgium       80000      65000
+4         Brazil        200000 	   185000
+5         Brunei        30000 	   25000
+6         Canada        150000     130000
+7         China         35000      28000
+8         Denmark       70000      58000
+9         Egypt         65000      55000
+10        Finland       110000     97000
+11        France        60000      52000
+12        Germany       50000      43000
+13        Kuwait        30000      25000
+14        Malaysia      25000      22000
+15        Norway        42000      35000
+16        Singapore     40000      36000
+17 	  Switzerland   50000      41500
+18  	  Thailand      16000      13500
+19  	  UAE           25000      21000
+20  	  USA           170000     150000
